@@ -1,17 +1,15 @@
 /* CSS files add styling rules to your content */
 
 h1{
-    font-family: 'Misto';
-    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 35px;
     font-kerning: 40px;
-    src: url('fonts/Misto.eot');
-    src: url('fonts/Misto.eot') format('embedded-opentype'),
-         url('fonts/Misto.woff2') format('woff2'),
-         url('fonts/Misto.woff') format('woff'),
-         url('fonts/Misto.ttf') format('truetype'),
-         url('fonts/Misto.svg#Misto') format('svg');
+    text-align: center;
 }
 
+h2{
+  font-family: 'Press Start 2P', cursive;
+}
 
 
 h3{
